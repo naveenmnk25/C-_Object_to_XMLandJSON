@@ -1,0 +1,11 @@
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.csproj.AssemblyReference.cache
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\writexml\WriteJSON_\bin\Debug\WriteJSON_.exe.config
+C:\Users\HAI\source\repos\writexml\WriteJSON_\bin\Debug\WriteJSON_.exe
+C:\Users\HAI\source\repos\writexml\WriteJSON_\bin\Debug\WriteJSON_.pdb
+C:\Users\HAI\source\repos\writexml\WriteJSON_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAI\source\repos\writexml\WriteJSON_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.csproj.CopyComplete
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.exe
+C:\Users\HAI\source\repos\writexml\WriteJSON_\obj\Debug\WriteJSON_.pdb

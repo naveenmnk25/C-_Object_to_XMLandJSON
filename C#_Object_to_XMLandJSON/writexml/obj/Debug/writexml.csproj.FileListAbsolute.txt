@@ -1,0 +1,11 @@
+C:\Users\HAI\source\repos\writexml\writexml\bin\Debug\writexml.exe.config
+C:\Users\HAI\source\repos\writexml\writexml\bin\Debug\writexml.exe
+C:\Users\HAI\source\repos\writexml\writexml\bin\Debug\writexml.pdb
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.csproj.AssemblyReference.cache
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.exe
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.pdb
+C:\Users\HAI\source\repos\writexml\writexml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAI\source\repos\writexml\writexml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAI\source\repos\writexml\writexml\obj\Debug\writexml.csproj.CopyComplete
